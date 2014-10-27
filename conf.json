@@ -1,0 +1,16 @@
+{
+  "media":"E:\\Games\\PA\\Planetary Annihilation\\stable\\media",
+  "output":"C:\\Users\\ColaColin\\AppData\\Local\\Uber Entertainment\\Planetary Annihilation\\server_mods\\expansionist",
+  "modInfo":{
+    "author":"Cola_Colin",
+    "build":"73939",
+    "context":"server",
+    "description":"Changes the balancing of t1 economy",
+    "display_name":"Expansionist",
+    "enabled":true,
+    "forum":"https://forums.uberent.com/threads/rel-expansionist.65524/",
+    "identifier":"info.nanodesu.expansionist",
+    "signature":"(not yet implemented)",
+    "version":"1"
+  }
+}
